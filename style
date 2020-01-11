@@ -1,8 +1,6 @@
 h1{
-			font-size: 30px;
-			color: darkgreen;
-		}
-		h2{
-			color: olivedrab;
-		}
-		</style>
+	color: teal;
+}
+h2{
+	color: darkcyan;
+}
