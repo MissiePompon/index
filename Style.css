@@ -8,9 +8,8 @@ header{
 	background-color: green;
 }
 header img{
-	border-radius: 100px;
-	width: 260px;
-}
+	border-radius: 300px;
+    width: 80px;
 main h1{
 	color: teal;
 }
