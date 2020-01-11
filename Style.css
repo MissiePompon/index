@@ -4,10 +4,6 @@ head{
 body{
 	margin: 0;
 }
-header{
-	background-color: green;
-	text-align: left;
-}
 h1{
 	color: teal;
 }
@@ -16,4 +12,12 @@ h2{
 }
 h3{
 	color: lightseagreen;
+}
+header{
+	background-color: green;
+	text-align: left;
+}
+header img{
+	border-image: 150px;
+	width: 300px;
 }
