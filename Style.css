@@ -5,9 +5,6 @@ body{
 	margin: 0;
 	font-family: 'Helvetica', 'Public Sans', sans-serif;
 }
-body img{
-	max-width: 100%;
-}
 header{
 	background-color: green;
 }
@@ -24,4 +21,10 @@ h2{
 }
 h3{
 	color: lightseagreen;
+}
+main{
+	max-width: 800px;
+}
+main img{
+	max-width: 100%;
 }
