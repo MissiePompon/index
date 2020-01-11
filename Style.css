@@ -4,6 +4,10 @@ head{
 body{
 	margin: 0;
 }
+header{
+	background-color: green;
+	text-align: center;
+}
 h1{
 	color: teal;
 }
@@ -12,8 +16,4 @@ h2{
 }
 h3{
 	color: lightseagreen;
-}
-header{
-	background-color: green;
-	text-align: center;
 }
