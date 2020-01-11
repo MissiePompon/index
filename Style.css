@@ -12,13 +12,13 @@ header img{
     width: 80px;
     padding-bottom: 0;
 }
-main h1{
+h1{
 	color: teal;
 }
-main h2{
+h2{
 	color: darkcyan;
 }
-main h3{
+h3{
 	color: lightseagreen;
 }
 main{
