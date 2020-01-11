@@ -17,3 +17,6 @@ header{
 	background-color: olivedrab;
 	text-align: center;
 }
+header h1{
+	color: white;
+}
