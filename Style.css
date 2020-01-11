@@ -10,6 +10,8 @@ header{
 header img{
 	border-radius: 300px;
     width: 80px;
+    padding-bottom: 0;
+}
 main h1{
 	color: teal;
 }
@@ -18,4 +20,7 @@ main h2{
 }
 main h3{
 	color: lightseagreen;
+}
+main{
+	max-width: 100%;
 }
