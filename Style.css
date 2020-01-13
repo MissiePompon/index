@@ -16,7 +16,7 @@ header img{
 }
 header button{
 	background-color: green;
-	float: left;
+	float: right;
   	border: 1px solid green;
 	color: white;
   	padding: 15px 32px;
@@ -25,10 +25,6 @@ header button{
   	font-size: 24px;
   	-webkit-transition-duration: 0.4s;
     transition-duration: 0.4s;
-}
-button :hover {
-  background-color: darkcyan;
-  color: white;
 }
 h1{
 	color: teal;
