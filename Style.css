@@ -40,5 +40,7 @@ main img{
 	max-width: 100%;
 }
 footer{
+	background-color: green;
+	color:white;
 	text-align: right;
 }
