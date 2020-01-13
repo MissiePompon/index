@@ -53,7 +53,7 @@ main{
 }
 main img{
 	max-width: 100%;
-	width: fit-content;
+	width: 800px;
 }
 footer{
 	background-color: green;
