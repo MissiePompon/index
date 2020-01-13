@@ -2,6 +2,7 @@ h1, h2{
 	font-family: 'Helvetica', 'Public Sans', sans-serif;
 }
 body{
+	text-align: middle;
 	margin: 0;
 	font-family: 'Helvetica', 'Public Sans', sans-serif;
 }
@@ -20,7 +21,6 @@ h2{
 	color: darkcyan;
 }
 main{
-	text-align: middle;
 	max-width: 800px;
 }
 main img{
