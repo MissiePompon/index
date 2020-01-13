@@ -2,6 +2,7 @@ h1, h2{
 	font-family: 'Helvetica', 'Public Sans', sans-serif;
 }
 body{
+	text-align: middle;
 	margin: 0;
 	font-family: 'Helvetica', 'Public Sans', sans-serif;
 }
@@ -30,7 +31,7 @@ h2{
 	color: darkcyan;
 }
 th {
-  background-color: #4CAF50;
+  background-color: teal;
   color: white;
 }
 main{
