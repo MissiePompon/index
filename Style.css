@@ -16,14 +16,12 @@ header img{
 header button{
 	background-color: green;
 	float: right;
-  	border: 1px darkgreen;
+  	border: 5px darkgreen;
 	color: white;
   	padding: 23px 15px;
   	text-align: center;
   	display: inline-block;
   	font-size: 24px;
-  	-webkit-transition-duration: 0.4s;
-    transition-duration: 0.4s;
 }
 h1{
 	color: teal;
@@ -31,8 +29,12 @@ h1{
 h2{
 	color: darkcyan;
 }
+th {
+  background-color: #4CAF50;
+  color: white;
+}
 main{
-	padding-left: 5px;
+	padding-left: 15px;
 	text-align: middle;
 	max-width: 800px;
 }
