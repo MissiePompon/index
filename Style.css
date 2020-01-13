@@ -17,9 +17,9 @@ header img{
 header button{
 	background-color: green;
 	float: right;
-  	border: 1px solid green;
+  	border: 1px darkgreen;
 	color: white;
-  	padding: 15px 32px;
+  	padding: 23px 15px;
   	text-align: center;
   	display: inline-block;
   	font-size: 24px;
